@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-�la bem vindo ao curso de java
-=======
 óla bem vindo ao curso de java
+=======
+Ã³la bem vindo ao curso de java
 primeiro commit
-segundo commit
->>>>>>> c984f1859b2e100af5fa9286b979fb5072b53ec3
+
